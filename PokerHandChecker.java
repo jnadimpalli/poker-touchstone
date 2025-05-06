@@ -1,7 +1,7 @@
 import java.util.*;
 
 /**
- * Main class for testing Texas Hold'em scenarios with plain-language output.
+ * Main class for testing Texas Hold'em scenarios.
  */
 public class PokerHandChecker {
     public static void main(String[] args) {
@@ -35,7 +35,7 @@ public class PokerHandChecker {
     }
 
     /**
-     * Runs a test scenario with everyday language outputs.
+     * Runs a test scenario.
      * @param title  The title of the scenario to print.
      * @param playerHoleCards  Each player's two private cards.
      * @param tableCards  The five shared cards on the table.
